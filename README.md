@@ -1,2 +1,2 @@
 # Deep-Learning-Specialization--Coursera
-This repo consists of all assignemnst submitted for **Deep Learning Specilization on Coursera**.
+This repo consists of all assignments submitted for **Deep Learning Specilization on Coursera**.
